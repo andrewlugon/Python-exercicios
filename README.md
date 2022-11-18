@@ -1,8 +1,4 @@
 
-# Exercícios python
-
-Exercicos realizados para aperfeiçoamento da lógica de programação em python
-
 # Questão 1
 
 Durante uma expedição tecnológica, sua equipe encontrou o que parece ser a senha que lhes dá acesso a um grande tesouro digital. Por sorte, sua equipe é formada pelas pessoas mais feras em programação e vocês rapidamente descobriram como decifrá-la.
@@ -107,9 +103,12 @@ Output:
 
 # Questão 6
 
+![App Screenshot](https://raw.githubusercontent.com/andrewlugon/Python-exercicios/5ad6724b573d488873607828dc8ca0f0cc0ae2da/img/questao6.jpg)
+
 
 # Questão 7
 
+![App Screenshot](https://raw.githubusercontent.com/andrewlugon/Python-exercicios/5ad6724b573d488873607828dc8ca0f0cc0ae2da/img/questao6.jpg)
 
 # Questão 8
 Um grande amigo seu mora numa cidade pequena, onde existem apenas duas empresas de táxi - a Empresa 1 e a Empresa 2. Ambas mudam suas taxas a cada dia
