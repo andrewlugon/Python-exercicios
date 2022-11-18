@@ -1,4 +1,10 @@
 
+# Exercícios python
+
+Exercicos realizados para aperfeiçoamento da lógica de programação em python.
+
+Funções das questões resolvidas na branche master.
+
 # Questão 1
 
 Durante uma expedição tecnológica, sua equipe encontrou o que parece ser a senha que lhes dá acesso a um grande tesouro digital. Por sorte, sua equipe é formada pelas pessoas mais feras em programação e vocês rapidamente descobriram como decifrá-la.
